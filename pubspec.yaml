@@ -1,7 +1,7 @@
 name: super_pager
 description: A new Flutter package project.
 version: 0.0.1
-author: Miloš Kresović
+author: Miloš Kresović<kresovic.milos@gmail.com>
 homepage: https://github.com/kresovic-milos/super_pager
 
 environment:
